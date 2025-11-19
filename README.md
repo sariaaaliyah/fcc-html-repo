@@ -11,5 +11,5 @@ Focus is on learning HTML step by step, following FreeCodeCamp's structure.
 4. Accessibility
 
 ## Commit strategy
-Each commit corresponds to a completed excercise or mini-project.
+Each commit corresponds to a completed exercise or mini-project.
 This helps track progress and practise Git skills.
