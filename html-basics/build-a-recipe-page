@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Banana Pancake Recipe</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Banana Pancake Recipe</h1>
+    <p>This is a recipe for traditional Cape Verdean banana pancakes. We have this breakfast or desert, and my family likes them extra sweet! This recipe is vegan friendly.</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 ripe bananas (preferably already brown)</li>
+      <li>200 grams of flour</li>
+      <li>300 militiers of soy milk (or another plantbased alternative)</li>
+      <li>Two to three tbsp of sugar (add more or less depending on personal preference)</li>
+      <li>One tsp of baking powder</li>
+      <li>A pinch of salt</li>
+      <li>Sunflower oil</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Start by peeling the bananas and setting them aside in a bowl.</li>
+      <li>Add in the sugar and salt, and start mashing the bananas with a fork.</li>
+      <li>Once the bananas are mashed together with the sugar and salt, add in the flour and soy milk. Mix these in with a fork as well. Heat up the pan to medium high with some sunflower oil while mixing.</li>
+      <li>Once the batter looks smooth, add in the baking powder. Don't overmix it.</li>
+      <li>Add the batter to the pan, flip the pancakes when bubbles start forming on top.</li>
+      <li>Enjoy these delicious pancakes with some powdered sugar or maple syrup and cinnamon on top.</li>
+    </ol>
+    <img src="fcc-bananapancakesrecipe.jpg" alt="Banana pancakes">
+  </body>
+</html>
